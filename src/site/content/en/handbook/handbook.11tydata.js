@@ -17,6 +17,7 @@ module.exports = {
         title: 'How to get started',
         pathItems: [
           'quick-start',
+          'third-party-contributions',
         ],
       },
       {
